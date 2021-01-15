@@ -1,0 +1,9 @@
+#gifs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inline-style {
+    display: flex;
+    flex-direction: column;
+}
